@@ -3,12 +3,12 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use App\Models\Alumno;
+use Illuminate\Support\Facades\DB;
 
 class AlumnoSeeder extends Seeder
 {
-    use WithoutModelEvents;
+
     /**
      * Run the database seeds.
      *

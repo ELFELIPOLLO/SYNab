@@ -31,7 +31,8 @@
       @endforeach
     </tbody>
   </table>
-  <div style="align-content: center">
+  <!-- div class="pagination">
     {{$alumnos->links()}}
   </div>
+  
 @stop
