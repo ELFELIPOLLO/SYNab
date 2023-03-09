@@ -1,0 +1,91 @@
+.principal{
+  position: absolute;
+  background-color: #F7D097;
+  width: 34%;
+  height: 50%;
+  top: 25%;
+  left: 32%;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 1);
+  border: 3px solid black;
+  font-family: 'Microsoft Yahei';
+  padding: 1%;
+  font-size: 16;
+
+}
+
+.icono{
+  position: absolute;
+  background-color: #F7D097;
+  width: 10%;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  top:15%;
+  left: 45%;
+  border-color: black;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 1);
+  border: 3px solid black;
+  text-align: center;
+  vertical-align: center;
+  
+}
+
+.textbox{
+  margin-top: 3px;
+  font-size: 16;
+  font-family: 'Microsoft Yahei';
+  width: 96%;
+  background-color: #FCDDB0;
+}
+
+.boton{
+  position: absolute;
+  font-size: 16;
+  font-family: 'Microsoft Yahei';
+  height: 10%;
+  width: 20%;
+  left: 40%;
+  bottom: 15%;
+  background-color: #F7D097;
+  border: 3px solid black;
+}
+
+.saludo{
+  font-size: 24;
+}
+
+.img1{
+  position: absolute;
+  height: auto;
+  width: 22%;
+  top: 0%;
+  left: 0%;
+  opacity: 30%;
+}
+
+.img2{
+  position: absolute;
+  height: auto;
+  width: 22%;
+  top: 0%;
+  right: 0%;
+  opacity: 30%;
+}
+
+.img3{
+  position: absolute;
+  height: auto;
+  width: 22%;
+  bottom: 0%;
+  left: 0%;
+  opacity: 30%;
+}
+
+.img4{
+  position: absolute;
+  height: auto;
+  width: 22%;
+  bottom: 0%;
+  right: 0%;
+  opacity: 30%;
+}
+

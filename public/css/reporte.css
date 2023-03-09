@@ -1,0 +1,108 @@
+.principal{
+    position: absolute;
+    background-color: #F7D097;
+    width: 34%;
+    height: 80%;
+    top: 5%;
+    left: 32%;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 1);
+    border: 3px solid black;
+    font-family: 'Microsoft Yahei';
+    padding: 1%;
+    font-size: 16;
+  
+  }
+  
+  .textbox{
+    margin-top: 3px;
+    font-size: 16;
+    font-family: 'Microsoft Yahei';
+    width: 96%;
+    background-color: #FCDDB0;
+  }
+
+  .textarea{
+    margin-top: 3px;
+    font-size: 16;
+    font-family: 'Microsoft Yahei';
+    width: 96%;
+    height: 35%;
+    background-color: #FCDDB0;
+  }
+
+  .seleccionador{
+    margin-top: 3px;
+    font-size: 16;
+    font-family: 'Microsoft Yahei';
+    background-color: #FCDDB0;
+    width: 96%;
+    border: 1px solid black;
+  }
+  
+  .botones{
+    position: absolute;
+    font-size: 16;
+    font-family: 'Microsoft Yahei';
+    height: 10%;
+    width: 20%;
+    left: 40%;
+    bottom: 5%;
+    
+  }
+
+  .regresar{
+    background-color: #F7D097;
+    border: 3px solid black;
+    height: 100%;
+    width: 45%;
+    left: 0%;
+  }
+
+  .reportar{
+    background-color: #F7D097;
+    border: 3px solid black;
+    height: 100%;
+    width: 45%;
+    right: 0%;
+    margin-left: 8%;
+  }
+
+  .saludo{
+    font-size: 24;
+  }
+
+  .img1{
+    position: absolute;
+    height: auto;
+    width: 22%;
+    top: 0%;
+    left: 0%;
+    opacity: 30%;
+  }
+  
+  .img2{
+    position: absolute;
+    height: auto;
+    width: 22%;
+    top: 0%;
+    right: 0%;
+    opacity: 30%;
+  }
+  
+  .img3{
+    position: absolute;
+    height: auto;
+    width: 22%;
+    bottom: 0%;
+    left: 0%;
+    opacity: 30%;
+  }
+  
+  .img4{
+    position: absolute;
+    height: auto;
+    width: 22%;
+    bottom: 0%;
+    right: 0%;
+    opacity: 30%;
+  }
